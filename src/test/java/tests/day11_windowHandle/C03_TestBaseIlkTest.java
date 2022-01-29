@@ -1,6 +1,5 @@
-package tests.day11;
+package tests.day11_windowHandle;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 import utilities.TestBase;
 

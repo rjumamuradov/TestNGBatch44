@@ -1,4 +1,4 @@
-package tests.day11;
+package tests.day11_windowHandle;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.*;
@@ -9,8 +9,6 @@ import org.testng.annotations.Test;
 
 import java.time.Duration;
 import java.util.Set;
-
-import static java.awt.SystemColor.window;
 
 public class C01_Window_Handle {
     WebDriver driver;

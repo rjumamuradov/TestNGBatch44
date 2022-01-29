@@ -1,17 +1,16 @@
-package tests.day11;
+package tests.day11_windowHandle;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import utilities.TestBase;
 
 import java.util.List;
 
-public class Soru extends TestBase {
+public class Soru1 extends TestBase {
 
 
 

@@ -1,4 +1,4 @@
-package tests.day11;
+package tests.day11_windowHandle;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

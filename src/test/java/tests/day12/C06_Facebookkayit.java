@@ -20,7 +20,7 @@ public class C06_Facebookkayit extends TestBase {
               findElement(By.xpath("//a[@class='_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy']")).
               click();
         //3- Ad, soyad, mail ve sifre kutularina deger yazalim ve kaydol tusuna basalim
-        
+
         //4- Kaydol tusuna basalim
     }
 

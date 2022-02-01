@@ -18,7 +18,7 @@ public class C04_Screenshot extends TestBase {
         File tumSayfaSS=new File("C:\\Users\\rozym\\IdeaProjects\\com.TestNGBatch44\\src");
         tumSayfaSS=screenshot.getScreenshotAs(OutputType.FILE);
 
-        
+
 
     }
 }

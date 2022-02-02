@@ -52,7 +52,7 @@ liste.stream().forEach(t-> System.out.println("t = " + t.getText()));
     }
     @AfterMethod
     public static void taerdown() {
-    driver.close();
+   //driver.close();
 
     }
 }

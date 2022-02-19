@@ -45,6 +45,7 @@ public class Q11 extends TestBase {
         //6."login" butonuna basin
 
         //7.Popup'ta cikan yazinin "validation failed" oldugunu test edin
+
         //8.Ok diyerek Popup'i kapatin
         //9.Ilk sayfaya geri donun
         //10.Ilk sayfaya donuldugunu test edin
